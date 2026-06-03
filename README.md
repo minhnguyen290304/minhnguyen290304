@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sang Minh
+# Hi there 👋 I'm Minh Nguyen
 
 <div align="center">
 
