@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Minh Nguyen
 
-<div align="center">
-
 ---
 
 ## 💫 About Me
@@ -14,7 +12,7 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 
 ### Analytics & BI
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MS SQL Server]([https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png))
+![MS SQL Server](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google)
 
