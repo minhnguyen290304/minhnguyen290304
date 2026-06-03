@@ -14,7 +14,7 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 
 🏅 Prize A & B - Young Researcher Award 2025
 
-🎓 Multiple Merit-based Scholarships (2023–2026)
+🎓 Multiple Merit-based Scholarships (2023-2026)
 
 ---
 
