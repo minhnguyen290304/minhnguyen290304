@@ -8,6 +8,16 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 
 ---
 
+## 🏆 Achievements
+
+🥉 Third Prize - Vietnam Student Informatics Olympiad 2025
+
+🏅 Prize A & B - Young Researcher Award 2025
+
+🎓 Multiple Merit-based Scholarships (2023–2026)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Analytics & BI
@@ -28,7 +38,7 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 
 ---
 
-# 📖 Publication
+## 📖 Publication
 
 ### Market Tourism and Tourist Perceptions: A Topic Modeling Analysis of Ben Thanh Market
 #### From Smart Cities to Smart Factories for a Sustainable Future
@@ -41,17 +51,7 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 
 ---
 
-# 🏆 Achievements
-
-🥉 Third Prize — Vietnam Student Informatics Olympiad 2025
-
-🏅 Prize A & B — UEH Young Researcher Award 2025
-
-🎓 Merit Scholarships (2023–2026)
-
----
-
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 <table>
 <tr>
