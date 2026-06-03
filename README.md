@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Minh Nguyen
+# Hi there 👋 I'm Minh Nguyen or Nguyen Cong Minh
 
 ---
 
