@@ -56,6 +56,35 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 <table>
 <tr>
 <td width="45%">
+<img src="images/chocolate_market_executive_summary.png" width="100%">
+</td>
+<td width="55%">
+<h3>🍫 Chocolate Market Sales, Price-Pack & Promotion Analytics</h3>
+<p>
+Analyzed multi-country chocolate sales data to identify revenue drivers, optimize price-pack strategies, evaluate promotion effectiveness, and uncover growth opportunities across brands, customer segments, and sales channels.
+</p>
+<b>🔧 Tools Used</b><br>
+MS SQL Server • SQL • Power BI
+<br><br>
+<b>💼 Business Problem</b><br>
+How can businesses optimize pricing, promotions, product mix, and channel strategies to drive profitable growth?
+<br><br>
+<b>📈 Key Outcomes</b>
+<ul>
+<li>Identified top-performing brands, products, and markets driving revenue and profitability</li>
+<li>Evaluated promotion effectiveness and discount impact on sales performance</li>
+<li>Analyzed price-pack architecture to uncover profitable product configurations</li>
+<li>Segmented customers and channels to identify growth opportunities</li>
+<li>Built interactive executive dashboards to support data-driven business decisions</li>
+</ul>
+<a href="YOUR_PROJECT_LINK">🔗 View Project</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="45%">
 
 <img src="images/game_progression_dashboard.png">
 
