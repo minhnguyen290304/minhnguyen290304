@@ -2,28 +2,11 @@
 
 <div align="center">
 
-# 📊 Data Analytics Portfolio
-
-Turning data into actionable insights through analytics, visualization, and machine learning.
-
-🏆 Vietnam Student Informatics Olympiad 2025  
-📄 Springer Publication Author  
-🤖 Data Analytics • Product Analytics • Machine Learning
-
-</div>
-
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I'm passionate about solving business problems through data.
-
-### Interests
-- 📈 Product Analytics
-- 🛒 E-commerce Analytics
-- 👥 Customer Analytics
-- 🤖 Machine Learning
-- 💬 NLP & Social Media Analytics
+Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Machine Learning, experienced in transforming large-scale datasets into actionable insights, developing dashboards, and applying analytical methods to support data-driven decision making. Recognized for strong analytical thinking, attention to detail, and adaptability, with a commitment to building a career in data analytics and leveraging data to drive business impact.
 
 ---
 
@@ -31,6 +14,7 @@ I'm passionate about solving business problems through data.
 
 ### Analytics & BI
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MS SQL Server]([https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png))
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google)
 
@@ -39,6 +23,29 @@ I'm passionate about solving business problems through data.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+---
+
+# 📖 Publication
+
+### Market Tourism and Tourist Perceptions: A Topic Modeling Analysis of Ben Thanh Market
+#### From Smart Cities to Smart Factories for a Sustainable Future
+
+📄 Published in Springer
+
+Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tourism Analytics
+
+🔗 DOI: http://dx.doi.org/10.1007/978-3-032-07721-9_55
+
+---
+
+# 🏆 Achievements
+
+🥉 Third Prize — Vietnam Student Informatics Olympiad 2025
+
+🏅 Prize A & B — UEH Young Researcher Award 2025
+
+🎓 Merit Scholarships (2023–2026)
 
 ---
 
@@ -171,64 +178,13 @@ Python • NLP • Topic Modeling
 </tr>
 </table>
 
----
-
-# 📖 Publication
-
-### Market Tourism and Tourist Perceptions:
-### A Topic Modeling Analysis of Ben Thanh Market
-
-📄 Published in Springer
-
-Research Areas:
-- NLP
-- Topic Modeling
-- Consumer Insights
-- Tourism Analytics
-
----
-
-# 🏆 Achievements
-
-🥉 Third Prize — Vietnam Student Informatics Olympiad 2025
-
-🏅 Prize A — UEH Young Researcher Award 2025
-
-🎓 Merit Scholarships (2023–2026)
-
-📚 Highest Score in Subject Groups A00 & A01
-
----
-
-# 📊 Analytics Domains
-
-🎮 Gaming Analytics
-
-📞 Customer Analytics
-
-🛒 E-commerce Analytics
-
-📱 Social Media Analytics
-
-📈 Product Analytics
-
-🤖 Machine Learning
-
----
-
-# ⚡ GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
 # 📫 Connect With Me
 
 - LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
-- Portfolio: YOUR_PORTFOLIO
+- Email: minhnguyen29p304@gmail.com
 
 ---
 
