@@ -132,7 +132,7 @@ Built an end-to-end Credit Risk Analytics and Credit Scoring solution using bure
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <br><br>
-🔗 <a href="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation">View Project</a>
+🔗 <a href="https://github.com/minhnguyen290304/Home-Credit-Risk-Analytics-PD-Modeling-and-Risk-Segmentation">View Project</a>
 
 </td>
 
