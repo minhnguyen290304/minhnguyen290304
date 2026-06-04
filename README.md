@@ -58,7 +58,7 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 <tr>
 
 <td width="55%">
-<img src="https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics/blob/main/images/executive%20summary.png?raw=true" width="100%">
+<img src="https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics/blob/main/dashboard%20preview/executive%20summary.png?raw=true" width="100%">
 </td>
 
 <td width="45%">
