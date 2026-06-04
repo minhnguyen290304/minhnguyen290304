@@ -56,33 +56,28 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 
 <table>
 <tr>
-<td width="45%">
-<img src="https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics/blob/main/images/executive%20summary.png?raw=true">
-</td>
+
 <td width="55%">
+<img src="https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics/blob/main/images/executive%20summary.png?raw=true" width="100%">
+</td>
+
+<td width="45%">
+
 <h3>🍫 Chocolate Market Sales, Price-Pack & Promotion Analytics</h3>
+
 <p>
 Analyzed multi-country chocolate sales data to identify revenue drivers, optimize price-pack strategies, evaluate promotion effectiveness, and uncover growth opportunities across brands, customer segments, and sales channels.
 </p>
+
 <b>🔧 Tools Used</b><br>
 
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <br><br>
-<b>💼 Business Problem</b><br>
-How can businesses optimize pricing, promotions, product mix, and channel strategies to drive profitable growth?
-<br><br>
-<b>📈 Key Outcomes</b>
-<ul>
-<li>Identified top-performing brands, products, and markets driving revenue and profitability</li>
-<li>Evaluated promotion effectiveness and discount impact on sales performance</li>
-<li>Analyzed price-pack architecture to uncover profitable product configurations</li>
-<li>Segmented customers and channels to identify growth opportunities</li>
-<li>Built interactive executive dashboards to support data-driven business decisions</li>
-</ul>
-🔗 Project: https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics
-</a>
+🔗 <a href="https://github.com/minhnguyen290304/Chocolate-Market-Sales-Price-Pack-Promotion-Analytics">View Project</a>
+
 </td>
+
 </tr>
 </table>
 
