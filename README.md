@@ -112,166 +112,38 @@ Analyzed multi-country chocolate sales data to identify revenue drivers, optimiz
 
 <table>
 <tr>
-<td width="45%">
-<img src="images/chocolate_market_executive_summary.png" width="100%">
-</td>
+
 <td width="55%">
-<h3>🍫 Chocolate Market Sales, Price-Pack & Promotion Analytics</h3>
+<img src="https://github.com/minhnguyen290304/Home-Credit-Risk-Analytics-PD-Modeling-and-Risk-Segmentation/blob/main/dashboard%20preview/Behavioral%20Credit%20Risk.png?raw=true" width="100%">
+
+</td>
+
+<td width="45%">
+
+<h3>🏦 Home Credit Credit Risk Analytics: PD Modeling & Risk Segmentation</h3>
+
 <p>
-Analyzed multi-country chocolate sales data to identify revenue drivers, optimize price-pack strategies, evaluate promotion effectiveness, and uncover growth opportunities across brands, customer segments, and sales channels.
-</p>
+Built an end-to-end Credit Risk Analytics and Credit Scoring solution using bureau, previous loan, and repayment data to estimate Probability of Default (PD) with XGBoost. Developed risk segmentation frameworks and interactive dashboards for portfolio monitoring, customer profiling, and credit risk reporting.</p>
+
 <b>🔧 Tools Used</b><br>
-MS SQL Server • SQL • Power BI
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=xgboost&logoColor=white">
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <br><br>
-<b>💼 Business Problem</b><br>
-How can businesses optimize pricing, promotions, product mix, and channel strategies to drive profitable growth?
-<br><br>
-<b>📈 Key Outcomes</b>
-<ul>
-<li>Identified top-performing brands, products, and markets driving revenue and profitability</li>
-<li>Evaluated promotion effectiveness and discount impact on sales performance</li>
-<li>Analyzed price-pack architecture to uncover profitable product configurations</li>
-<li>Segmented customers and channels to identify growth opportunities</li>
-<li>Built interactive executive dashboards to support data-driven business decisions</li>
-</ul>
-<a href="YOUR_PROJECT_LINK">🔗 View Project</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="45%">
-
-<img src="images/game_progression_dashboard.png">
-
-</td>
-
-<td width="55%">
-
-<h3>🎮 Game Progression Analytics</h3>
-
-<b>Business Problem</b><br>
-Why are players dropping out of the game?
-
-<br><br>
-
-<b>Dataset</b><br>
-116K+ gameplay events
-
-<br><br>
-
-<b>Tools</b><br>
-SQL Server • Power BI
-
-<br><br>
-
-<b>Key Insights</b>
-
-<ul>
-<li>Drop-off analysis</li>
-<li>Fail rate analysis</li>
-<li>Retry behavior analysis</li>
-<li>Retention metrics</li>
-<li>Level difficulty assessment</li>
-</ul>
-
-🔗 Repository Link
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="55%">
-
-<h3>📞 Telecom Churn Prediction & Customer Segmentation</h3>
-
-<b>Business Problem</b><br>
-Which customers are likely to churn?
-
-<br><br>
-
-<b>Tools</b><br>
-Python • Machine Learning
-
-<br><br>
-
-<b>Key Contributions</b>
-
-<ul>
-<li>Feature engineering</li>
-<li>Churn prediction model</li>
-<li>Customer segmentation</li>
-<li>Driver analysis</li>
-</ul>
-
-🔗 Repository Link
-
-</td>
-
-<td width="45%">
-
-<img src="images/churn_prediction_dashboard.png">
+🔗 <a href="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation">View Project</a>
 
 </td>
 
 </tr>
 </table>
-
----
-
-<table>
-<tr>
-<td width="45%">
-
-<img src="images/fast_fashion_nlp.png">
-
-</td>
-
-<td width="55%">
-
-<h3>👗 Fast Fashion Consumer Behavior Analysis</h3>
-
-<b>Research Question</b><br>
-Why do consumers continue purchasing fast fashion despite ethical concerns?
-
-<br><br>
-
-<b>Dataset</b><br>
-10K+ social media discussions
-
-<br><br>
-
-<b>Tools</b><br>
-Python • NLP • Topic Modeling
-
-<br><br>
-
-<b>Methods</b>
-
-<ul>
-<li>Topic Modeling (LDA)</li>
-<li>Sentiment Analysis</li>
-<li>Social Media Analytics</li>
-</ul>
-
-🔗 Repository Link
-
-</td>
-</tr>
-</table>
-
 
 ---
 
 # 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/minh-nguyen-9016a627a/
 - Email: minhnguyen29p304@gmail.com
 
 ---
