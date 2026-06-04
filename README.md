@@ -53,6 +53,33 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 
 ## 📂 Featured Projects
 
+<table>
+<tr>
+
+<td width="55%">
+<img src="YOUR_DASHBOARD_PREVIEW_IMAGE_LINK_HERE" width="100%">
+</td>
+
+<td width="45%">
+
+<h3>🛒 OTTO E-commerce Customer Journey Analytics & Product Recommendation</h3>
+
+<p>
+Conducted customer journey analysis on 41 million+ e-commerce events to identify behavioral trends, conversion opportunities, and product interaction patterns. Developed interactive dashboards and a transition-based recommendation engine to support customer engagement and improve customer experience.</p>
+
+<b>🔧 Tools Used</b><br>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<br><br>
+🔗 <a href="https://github.com/minhnguyen290304/OTTO-Customer-Journey-Analytics-and-Product-Recommendation">View Project</a>
+
+</td>
+
+</tr>
+</table>
+
 
 <table>
 <tr>
