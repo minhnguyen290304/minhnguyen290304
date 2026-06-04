@@ -148,4 +148,5 @@ Built an end-to-end Credit Risk Analytics and Credit Scoring solution using bure
 
 ---
 
-⭐ Always learning, building, and transforming data into business insights.
+⭐ Nothing is impossible
+💫 Learn, learn more, learn forever
