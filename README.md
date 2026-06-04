@@ -57,7 +57,8 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 <tr>
 
 <td width="55%">
-<img src="YOUR_DASHBOARD_PREVIEW_IMAGE_LINK_HERE" width="100%">
+<img src="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation/blob/main/dashboard%20preview/transition%20analysis%20p1.png?raw=true" width="100%">
+
 </td>
 
 <td width="45%">
@@ -73,7 +74,7 @@ Conducted customer journey analysis on 41 million+ e-commerce events to identify
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <br><br>
-🔗 <a href="https://github.com/minhnguyen290304/OTTO-Customer-Journey-Analytics-and-Product-Recommendation">View Project</a>
+🔗 <a href="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation">View Project</a>
 
 </td>
 
