@@ -143,7 +143,7 @@ Built an end-to-end Credit Risk Analytics and Credit Scoring solution using bure
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/minh-nguyen-9016a627a/
+- LinkedIn: https://www.linkedin.com/in/minhnguyen293/
 - Email: minhnguyen29p304@gmail.com
 
 ---
