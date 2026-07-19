@@ -70,7 +70,7 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 
 <td width="45%">
 
-<h3>🎯 Customer Experience Intelligence</h3>
+<h3>🎯 Customer Experience Intelligence: From Operational Analytics to Intelligent Automation</h3>
 
 <p>
 Developed an end-to-end Customer Experience Intelligence solution that enables organizations to monitor operational performance and better understand customer feedback. The solution features interactive Power BI dashboards, NLP-based topic modeling for customer voice analysis, and an automated executive reporting workflow built with n8n and the OpenAI API.
