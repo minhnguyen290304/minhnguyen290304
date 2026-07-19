@@ -57,6 +57,36 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 <tr>
 
 <td width="55%">
+<img src="https://github.com/minhnguyen290304/Customer-Experience-Intelligence-From-Operational-Analytics-to-Intelligent-Automation/blob/main/dashboard%20preview/Ticket%20and%20SLA%20Performance%20Overview.png?raw=true" width="100%">
+</td>
+
+<td width="45%">
+
+<h3>🎯 Customer Experience Intelligence</h3>
+
+<p>
+Developed an end-to-end Customer Experience Intelligence solution that enables organizations to monitor operational performance and better understand customer feedback. The solution features interactive Power BI dashboards, NLP-based topic modeling for customer voice analysis, and an automated executive reporting workflow built with n8n and the OpenAI API.
+  
+<b>🔧 Tools Used</b><br>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
+<br><br>
+🔗 <a href="https://github.com/minhnguyen290304/Customer-Experience-Intelligence-From-Operational-Analytics-to-Intelligent-Automation">View Project</a>
+
+</td>
+
+</tr>
+</table>
+
+
+<table>
+<tr>
+
+<td width="55%">
 <img src="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation/blob/main/dashboard%20preview/transition%20analysis%20p1.png?raw=true" width="100%">
 
 </td>
