@@ -12,9 +12,11 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 
 🥉 Third Prize - Vietnam Student Informatics Olympiad 2025
 
+🏅 Top 5 Finalist - Grab for the Future Hackathon 2026 ([Certificate](https://drive.google.com/file/d/1uh7_H1zP_BR0jtn1pstRBm4WpiCvNIsE/view?usp=sharing)) 
+
 🏅 Prize A & B - Young Researcher Award 2025
 
-🎓 Multiple Scholarships for outstanding performance in Academic and Extracurricular Activities - Rank 1 - 2 in the major
+🎓 Multiple Scholarships for Outstanding Academic and Extracurricular Performance - Ranked Top 1–2 in the Major
 
 ---
 
@@ -25,16 +27,22 @@ Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Mac
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Data Science
+### Data Science & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ---
 
