@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-Aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Machine Learning, experienced in transforming large-scale datasets into actionable insights, developing dashboards, and applying analytical methods to support data-driven decision making. Recognized for strong analytical thinking, attention to detail, and adaptability, with a commitment to building a career in data analytics and leveraging data to drive business impact.
+Aspiring Data Analyst with hands-on experience in SQL, Power BI and Python, skilled in transforming large-scale datasets into actionable insights through data analysis, dashboard development, and workflow automation to support business decision-making and improve operational performance. Recognized for strong analytical thinking, attention to detail, and adaptability, with a commitment to building a career in data analytics and leveraging data to drive business impact.
 
 ---
 
