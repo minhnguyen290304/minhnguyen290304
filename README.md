@@ -18,6 +18,8 @@ Aspiring Data Analyst with hands-on experience in SQL, Power BI and Python, skil
 
 🎓 Multiple Scholarships for Outstanding Academic and Extracurricular Performance - Ranked Top 1–2 in the Major
 
+🎓 IBM Data Analyst Certificate ([Certificate](https://coursera.org/share/e84009b2534807a4129e787512a512f2)) 
+
 ---
 
 ## 🛠️ Tech Stack
