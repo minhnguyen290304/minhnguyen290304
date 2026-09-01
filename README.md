@@ -40,6 +40,9 @@ Aspiring Data Analyst with hands-on experience in SQL, Power BI and Python, skil
 
 ### Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Microsoft Power Automate](https://img.shields.io/badge/Microsoft_Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,10 +75,10 @@ Research Areas: NLP, Setiment Analytics, Topic Modeling, Consumer Insights, Tour
 
 <td width="45%">
 
-<h3>🎯 Customer Support Intelligence: From Operational Analytics to Intelligent Automation</h3>
+<h3>🎯 Customer Experience Intelligence: From Operational Analytics to Intelligent Automation</h3>
 
 <p>
-Developed an end-to-end Customer Support Intelligence solution that enables organizations to monitor operational performance and better understand customer feedback. The solution features interactive Power BI dashboards, NLP-based topic modeling for customer voice analysis, and an automated executive reporting workflow built with n8n and the OpenAI API.
+Developed an end-to-end Customer Experience Intelligence solution that enables organizations to monitor operational performance and better understand customer feedback. The solution features interactive Power BI dashboards, NLP-based topic modeling for customer voice analysis, and an automated executive reporting workflow built with n8n and the OpenAI API.
   
 <b>🔧 Tools Used</b><br>
 
@@ -106,13 +109,15 @@ Developed an end-to-end Customer Support Intelligence solution that enables orga
 <h3>🛒 OTTO E-commerce Customer Journey Analytics & Product Recommendation</h3>
 
 <p>
-Conducted customer journey analysis on 41 million+ e-commerce events to identify behavioral trends, conversion opportunities, and product interaction patterns. Developed interactive dashboards and a transition-based recommendation engine to support customer engagement and improve customer experience.</p>
+Analyzed 41 million+ e-commerce events to uncover customer behavior, conversion opportunities, and product interaction patterns. Built interactive Power BI dashboards and a transition-based recommendation engine, then extended the solution with Power Automate for scheduled dataset refresh, KPI alert notifications, and automated PDF report distribution.
+</p>
 
 <b>🔧 Tools Used</b><br>
 
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white">
 <br><br>
 🔗 <a href="https://github.com/minhnguyen290304/OTTO-E-commerce-Customer-Journey-Analytics-Product-Recommendation">View Project</a>
 
