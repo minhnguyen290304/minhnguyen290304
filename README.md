@@ -4,11 +4,15 @@
 
 ## 💫 About Me
 
-Aspiring Data Analyst with hands-on experience in SQL, Power BI and Python, skilled in transforming large-scale datasets into actionable insights through data analysis, dashboard development, and workflow automation to support business decision-making and improve operational performance. Recognized for strong analytical thinking, attention to detail, and adaptability, with a commitment to building a career in data analytics and leveraging data to drive business impact.
+Aspiring AI Practitioner, Data Analyst with a strong foundation in Python, SQL, machine learning, deep learning and data analytics, experienced in developing data-driven solutions and applying analytical techniques to real-world business problems. Hands-on experience with machine learning, NLP, customer behavior analysis, and workflow automation, with a strong interest in developing practical AI applications and intelligent solutions. Recognized for logical thinking, problem-solving, adaptability, and a strong learning mindset, with a commitment to continuous learning and building impactful AI solutions.
 
 ---
 
 ## 🏆 Achievements
+
+🥉 Participant - 2026 ICPC Asia Danang Regional Contest
+
+🥉 Consolidate Prize - 2026 ICPC Vietnam Southern Provincial Programming Contest
 
 🥉 Third Prize - Vietnam Student Informatics Olympiad 2025
 
